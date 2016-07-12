@@ -85,7 +85,6 @@ acwd.restore() // back history;
 
 console.log(acwd()) // => '/foo/bar'
 
-
 ```
 
 
