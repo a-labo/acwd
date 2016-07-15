@@ -13,4 +13,5 @@ Object.assign(lib, {
   define
 })
 
-module.exports = define
+module.exports = lib
+
